@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/84860191/206591648-d5164766-c45a-4d02-
 
 # Ekran Görüntüleri
 
-<p aling= "center">
+<p aling= "center" float="center">
   <img src="https://user-images.githubusercontent.com/84860191/206591761-99ba419d-00c5-444f-8b85-f1cc56338169.png" width="650" />
 </p>
 
